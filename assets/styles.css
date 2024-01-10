@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+
+body {
+    background-color: rgb(242, 242, 247);
+    margin: 0;
+}
+
+#base-section {
+    width: 100vw;
+    height: 100vh;
+}
+
+#content-container {
+    height: 100%;
+}
+
+#title-container {
+    text-align: center;
+    height: 300px;
+}
+
+#title {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 6em;
+}
+
+#subtitle {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 1.3em;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#btn-text {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: rgb(255, 255, 255);
+    margin-top: 12px;
+    width: 90%;
+}
+
+#icon {
+    width: fit-content;
+}
+
+#btn-ARapp {
+    width: 500px;
+    height: 60px;
+    border-radius: 14px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
